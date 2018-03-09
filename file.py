@@ -9,6 +9,7 @@ file=open("D:\\TestBank\\abc.txt","a")
 name=input("이름?")
 age=input("나이?")
 addr=input("주소?")
+sex = "man"
 
 file.write(name+"\n")
 file.write(age+"\n")
