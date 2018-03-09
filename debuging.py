@@ -2,7 +2,7 @@
 readStr, outStr, saveStr="", "", "" 
 i,secu=0,0 ;
 suls=[ ] 
-fileName="D:\\TestBank\\my.txt"
+fileName="D:\\TestBank\\mychange code.txt"
  
 print("1.write  2.read  ");
 num=input(">>>")
