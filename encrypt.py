@@ -8,7 +8,7 @@ Created on 2017. 12. 17.
 readStr,outStr,saveStr="","",""
 i, secu = 0, 0
 suls=[ ]
-choice=input("1.파일저장   2.파일불러오기  선택? ")
+choice=input("1.파일저장   2.파일불러오기  선택? ") # oh my god, big bug, I patched for you.
 fileName = "D:\\TestBank\\my.txt"
 
 if choice =='1':
