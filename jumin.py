@@ -9,10 +9,11 @@ import re
 
 try:
     p=re.compile('\d{6}-\d{7}')
-    txt="870019-1234567" #자릿수 부족으로 에러 발생 try~exception적용
+    txt="870019-1234567" #I chaged this line.
     m=p.search(txt)  #check if there is a match
     print(m.group())
-    print()
+    I added this line here
+
 
 except:
     print("Jumin number is incorrect")
