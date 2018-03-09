@@ -8,7 +8,7 @@ Created on 2017. 11. 26.
 import copy
 
 
-my = {}  #Dictionary
+my = {}  #Dictionary, I(collaborator) patched here
 info2={}
 bl = True
 num=0
