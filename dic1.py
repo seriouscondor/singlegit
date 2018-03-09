@@ -18,7 +18,7 @@ addr=""
 
 while bl:
     print()
-    print("1.등록   2.학번검색   3.수정   4.삭제   5.전체출력   6.종료")
+    print("1.등록   1.2 new menu 2.학번검색   3.수정   4.삭제   5.전체출력   6.종료")
     num=int(input(">>> "))
     if num==1:
         #print("등록")
