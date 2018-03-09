@@ -7,7 +7,7 @@ Created on 2017. 11. 26.
 import copy
 
 my = {}  #Dictionary type
-dt = []  #List data type
+dt = []  #Patched here
 bl = True
 num=0
 
