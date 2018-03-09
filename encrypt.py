@@ -12,7 +12,7 @@ choice=input("1.파일저장   2.파일불러오기  선택? ")
 fileName = "D:\\TestBank\\my.txt"
 
 if choice =='1':
-    content = input("파일에 저장할 내용 입력 : ")  #장문으로 입력
+    content = input(Chage here for github : ")  #장문으로 입력
     #outFile = open(fileName,'a',encoding='utf-8')
     outFile = open(fileName,'w', encoding='utf-8')
     for i in range(0,len(content)):
